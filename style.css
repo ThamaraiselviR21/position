@@ -1,0 +1,86 @@
+#ra{
+    border: 2px solid blue;
+    background-color: silver;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin-top: 8vh;
+    margin-left: 65vh;
+}
+.square1{
+    height: 80px;
+    width: 80px;
+    border: 2px solid red;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.circul1{
+    height: 80px;
+    width: 80px;
+    border: 2px solid green;
+    border-radius: 50px;
+    position: absolute;
+    top: 0;
+    left: 40%;
+}
+.square2{
+    height: 80px;
+    width: 80px;
+    border: 2px solid red;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.circul2{
+    height: 80px;
+    width: 80px;
+    border: 2px solid green;
+    border-radius: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 40%;
+}
+.circul3{
+    height: 80px;
+    width: 80px;
+    border: 2px solid green;
+    border-radius: 50px;
+    position: absolute;
+    top: 40%;
+    left: 83%;
+
+}
+.square3{
+    height: 80px;
+    width: 80px;
+    border: 2px solid red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+.square4{
+    height: 80px;
+    width: 80px;
+    border: 2px solid red;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
+.circul4{
+    height: 80px;
+    width: 80px;
+    border: 2px solid green;
+    border-radius: 50px;
+    position: absolute;
+    top:40%;
+    left: 0;
+}
+.text{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    color: brown;
+}
+
+
